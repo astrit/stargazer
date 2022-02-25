@@ -4,15 +4,15 @@ on:
       repoOrg:
         description: "Repo Org"
         required: true
-        default: "pomber"
+        default: "astrit"
       repoName:
         description: "Repo Name"
         required: true
-        default: "didact"
+        default: "css.gg"
       starCount:
         description: "Star Count"
         required: true
-        default: 100
+        default: 9000
       duration:
         description: "Duration (seconds)"
         required: false
